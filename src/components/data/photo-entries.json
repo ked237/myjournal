@@ -1,0 +1,41 @@
+{
+    "itemlist" :
+    [
+            {
+                "src": "great-teacher.jpeg",
+                "caption": "The Great Teacher",
+                "short": "Retired teacher and really nice lady"
+              },
+
+            {
+                "src": "ball-player.jpeg",
+                "caption": "The Ball Player",
+                "short": "Really nice guy with ambitions"
+              },
+
+            {
+                "src": "feisty-but-sweet.jpeg",
+                "caption": "The Feisty but Sweet",
+                "short": "Will not take crap but sweet at the end"
+              },
+
+              {
+                "src": "happy-lady.jpeg",
+                "caption": "The Happy Lady",
+                "short": "Had a hard time choosing but was happy"
+              },
+
+              {
+                "src": "hustle-girl.jpeg",
+                "caption": "The Hustle Girl",
+                "short": "Makes good money selling life insurance"
+              },
+
+              {
+                "src": "money-man.jpeg",
+                "caption": "The Money Man",
+                "short": "Probably a millionnaire but down to earth"
+              }  
+        
+    ]
+}
